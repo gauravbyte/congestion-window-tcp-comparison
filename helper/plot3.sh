@@ -1,0 +1,9 @@
+python3 plot.py Third_1_1.cwnd
+python3 plot.py Third_1_2.cwnd
+python3 plot.py Third_1_3.cwnd
+python3 plot.py Third_2_1.cwnd
+python3 plot.py Third_2_2.cwnd
+python3 plot.py Third_2_3.cwnd
+python3 plot.py Third_3_1.cwnd
+python3 plot.py Third_3_2.cwnd
+python3 plot.py Third_3_3.cwnd
